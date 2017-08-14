@@ -9,7 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         fun printString(){
-            println("1234")
+            println("12345")
         }
     }
 }
